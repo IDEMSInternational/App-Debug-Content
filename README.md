@@ -12,4 +12,3 @@ yarn workflow deployment import https://github.com/IDEMSInternational/app-debug-
 
 For more information on app repo integration see documentation at:
 https://idemsinternational.github.io/open-app-builder/developers/deployments/#github-management
-
